@@ -2,4 +2,5 @@ linija 1
 linija 1
 linija 1
 linija 1
+nova linija 1
 linija 1
